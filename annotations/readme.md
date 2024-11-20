@@ -1,1 +1,0 @@
-Annototation ("Map Guide") files
