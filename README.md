@@ -1,1 +1,1 @@
-# cs2_mapguides
+# CS2 Mapguides by woe
