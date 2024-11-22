@@ -26,3 +26,18 @@ Use the mapguides_help / mg_help command in-game for an overview of commands lik
 * woe_anubis
 * woe_vertigo / woe_vert
 * woe_mirage / woe_mir
+
+
+## THE IN-BUILT IN-ENGINE COMMANDS TO MAKE MAP GUIDES
+
+* sv_allow_annotations TRUE
+* annotation_load TITLE
+* annotation_save TITLE
+* annotation_append TITLE
+* annotation_create grenade LABEL
+* annotation_create position LABEL
+* annotation_create text TITLE DESCRIPTION float
+* annotation_create text TITLE DESCRIPTION surface
+* annotation_create spot
+* annotation_create line float new
+* annotation_create line surface new
