@@ -53,6 +53,5 @@ Use the mapguides_help / mg_help command in-game for an overview of commands lik
 * annotation_create line float new
 * annotation_create line surface new
 * workshop_annotation_submit
-# .
-* annotation folder structure:
-* \annotations\local\filename\filename.txt
+# Annotation folder structure:
+\annotations\local\filename\filename.txt
