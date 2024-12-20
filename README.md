@@ -15,6 +15,7 @@ Use the mapguides_help / mg_help command in-game for an overview of commands lik
 * prac / pracc / pracc_mode / prac_mode / smoke - Load Pracc CFG
 * prac_MapName / pracc_MapName - Load Pracc cfg AND Map annotations / Map Guides
 * go_MapName - Create Local Server on X Map (ex. go_inf or go_inferno)
+  
 ..................................................................................
 * util_rethrow		- Rethrow Last Util
 * util_drop			- Drop all util
@@ -22,6 +23,7 @@ Use the mapguides_help / mg_help command in-game for an overview of commands lik
 * util_get			- Buy all util
 * util_rethrow		- Rethrow Last Util
 * util_molly		- Get Molotov
+  
 ..........................................
 * local_rr / l_rr	- mp_restartgame 1
 * rcon_rr / r_rr 	- rcon mp_restartgame 1
